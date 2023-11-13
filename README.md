@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Vu</h1>
-<h3 align="center">A master student in Statistics</h3>
+<h3 align="center">A Master Student in Statistics</h3>
 
 - 🌱 I’m currently learning **Statistics and Coding**
 
